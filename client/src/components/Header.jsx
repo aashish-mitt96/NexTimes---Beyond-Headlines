@@ -25,7 +25,7 @@ const Header = () => {
   useEffect(() => {
     const fetchHeadlines = async () => {
       try {
-        const response = await axios.get("http://localhost:5000/api/news", {
+        const response = await axios.get("https://nex-times-beyond-headlines.vercel.app/api/news", {
           params: { categories: "general" },
         });
 
