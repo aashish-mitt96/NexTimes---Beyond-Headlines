@@ -37,5 +37,9 @@ Nextimes is a modern, responsive news platform that fetches the latest headlines
 - News are paginated and more can be loaded dynamically.
 
 ---
+## 📺 See Live Demo
 
+Check out the live version of **Nextimes** in action:
+
+- 🌍 https://nex-times-beyond-headlines-tp8t.vercel.app/
 
