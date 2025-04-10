@@ -28,4 +28,7 @@ body {
 
   overflow-x: hidden;
   color: #0f172a;
+
+  transform: scale(0.9);
+  transform-origin: 0 0;
 }
