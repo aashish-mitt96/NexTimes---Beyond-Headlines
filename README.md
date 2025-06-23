@@ -1,8 +1,8 @@
-# 🗞️ Nextimes — Beyond Headlines
+# 🗞️ nextimes.journal
 
 ![Nextimes Preview](./Preview.png)
 
-Nextimes is a modern, responsive news platform that fetches the latest headlines from around the world using the [NewsAPI.org](https://newsapi.org/) service. Designed with performance and user experience in mind, it keeps you updated with top stories across categories like technology, politics, science, sports, and more.
+nextimes.journal is a modern, responsive news platform that fetches the latest headlines from around the world using the [NewsAPI.org](https://newsapi.org/) service. Designed with performance and user experience in mind, it keeps you updated with top stories across categories like technology, politics, science, sports, and more.
 
 ---
 
@@ -39,7 +39,7 @@ Nextimes is a modern, responsive news platform that fetches the latest headlines
 ---
 ## 📺 See Live Demo
 
-Check out the live version of **Nextimes** in action:
+Check out the live version of **nextimes.journal** in action:
 
 - 🌍 https://nex-times-beyond-headlines-tp8t.vercel.app/
 
